@@ -1,4 +1,4 @@
 # MelonClicker
-Game a bit like to Cookie Clicker but with melons.
+Game a bit like Cookie Clicker but with melons.
 
 Just download the launcher and you can donwload the game
